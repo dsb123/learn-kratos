@@ -1,4 +1,4 @@
-module github.com/go-kratos/kratos-layout
+module server
 
 go 1.16
 
